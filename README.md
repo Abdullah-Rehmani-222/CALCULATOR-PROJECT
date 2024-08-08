@@ -17,7 +17,8 @@
 ## AGAIN RUN THIS COMMANDS ON VS CODE TERMINAL ON YOUR CURRENT PROJECT:
 1. git add .
 2. git commit -m "any message"
-3. git push -u origin main
+3. git pull `before pushing again`.
+4. git push -u origin main
 - this `main` is your branch that you made when you adding your project this `4. git branch -M main`
 
 **ENJOY!**
