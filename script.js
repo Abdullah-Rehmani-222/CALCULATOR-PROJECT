@@ -74,14 +74,3 @@ themeSwitch.addEventListener("click", () => {
   }
 });
 
-function App() {
-  return (
-    <>
-      <p>
-
-        
-
-      </p>
-    </>
-  );
-}
